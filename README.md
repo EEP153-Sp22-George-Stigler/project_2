@@ -1,5 +1,7 @@
 # project_2
 
-Code uploaded is what we have by 3/2. This is all of the code corresponding to the A deliverables. At the end of the notebook, we have some errors corresponding to the code for the C deliverable (visualization). 
+Topic: Comparing the cost of a pescatarian diet in Anchorage, Alaska and Irvine, California
 
-3/4 update: we are working on fixing the code for the C deliverable, and will upload this once we do!
+Goals: Elucidate the differences in the cost of living in a place like Anchorage, AK that is known to have high food prices due to the amount of importing the state does relative to a state like California whose food prices are reflective of the large amount of agricultural production in the state.
+
+
